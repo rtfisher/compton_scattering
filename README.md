@@ -1,5 +1,7 @@
 # Compton Scattering — Interactive Visualization
 
+[![CI](https://github.com/rtfisher/compton_scattering/actions/workflows/tests.yml/badge.svg)](https://github.com/rtfisher/compton_scattering/actions/workflows/tests.yml)
+
 An interactive matplotlib tool for PHY 213 (Modern Physics) that lets students
 explore the Compton effect in real time.  Drag the sliders or click a preset
 X-ray source button to instantly update the scattering geometry, the Δλ–θ
